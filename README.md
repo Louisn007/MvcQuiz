@@ -139,30 +139,6 @@ If you want to run the application locally with a database, follow these steps:
 You can copy and paste this into your `README.md` file on GitHub.
 
 ------------------------------------------
-Here's the translated content in Korean:
-
-```markdown
-# MvcQuiz
-
-이 저장소는 "MvcQuiz"라는 ASP.NET Core MVC 웹 애플리케이션을 포함하고 있습니다. 이 프로젝트는 ASP.NET Core를 사용하여 MVC 앱을 만드는 공식 Microsoft 튜토리얼을 기반으로 합니다.
-
-**실시간 데모**: [MvcQuiz on Somee.com](http://tjcode.somee.com/)
-
-## 목차
-
-1. [시작하기](#시작하기)
-2. [사전 준비](#사전-준비)
-3. [설치](#설치)
-4. [데이터베이스 설정](#데이터베이스-설정)
-5. [로컬에서 애플리케이션 실행](#로컬에서-애플리케이션-실행)
-6. [호스팅 제공자에 배포](#호스팅-제공자에-배포)
-7. [Somee.com에 배포](#someecom에-배포)
-8. [감사의 말](#감사의-말)
-
-## 시작하기
-
-개발 및 테스트 목적으로 로컬 머신에서 프로젝트를 설정하고 실행하는 방법에 대한 지침입니다. 
-
 ## 사전 준비
 
 시작하기전 머신에 위 자료들에 대한 설치여부를 확인하세요:
