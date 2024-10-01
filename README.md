@@ -2,6 +2,22 @@ Here is the content formatted for your `README.md` file:
 
 ```markdown
 # MvcQuiz
+1. make a new folder Example: 
+schoolproject 
+2. download and install Git windows 
+https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe 
+3. open schoolproject folder 
+right click mouse in middle of explorer, select: open terminal 
+4. in terminal, input: 
+git clone https://github.com/Louisn007/MvcQuiz.git 
+5. install visual studio 2022 community version. 
+   select asp.net when  install. 
+6. go to folder schoolproject select solution: Mvc.sln 
+
+Can build and run in local. 
+when finish, can upload to GitHub: 
+install githubdesktop
+
 
 This repository contains an ASP.NET Core MVC Web Application called "MvcQuiz." The project is based on the official Microsoft tutorial for creating an MVC app using ASP.NET Core.
 
