@@ -1,6 +1,16 @@
 Here is the content formatted for your `README.md` file:
 
 ```markdown
+English version:
+This is the project for TaeJang High School coding club. The website is : http://tjcode.somee.com/
+The website can be obtained by register in the site : somee.com for free in 1-3 months.
+Leader: Bui Xuan Mai  (수안마이)
+한국어: 
+태장고등학교 코딩 동아리의 프로젝트입니다.
+웹사이트: http://tjcode.somee.com/
+somee.com에 회원가입하면 1~3개월 동안 무료로 웹사이트를 개설할 수 있습니다.
+리더: Bui Xuan Mai
+
 # MvcQuiz
 1. make a new folder Example: 
 schoolproject 
@@ -150,6 +160,7 @@ If you want to run the application locally with a database, follow these steps:
 ## Acknowledgments
 
 - This project is based on the [ASP.NET Core MVC tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio) by Microsoft.
+
 ```
 
 You can copy and paste this into your `README.md` file on GitHub.
